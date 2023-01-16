@@ -4,7 +4,7 @@
 
 ## Workflow Description
 
-This example workflow runs a [kube-burner](https://github.com/cloud-bulldozer/kube-burner) node-density workload plugin on the local system.
+This example workflow runs a [kube-burner](https://github.com/cloud-bulldozer/kube-burner) node-density cni workload plugin on the local system.
 
 
 ## Files
